@@ -1,4 +1,9 @@
-## WalletShell - GUI wallet for TurtleCoin.
+## CatalansCoin GUI Wallet - GUI wallet for CatalansCoin.
+
+CatalansCoin GUI Wallet is ported from turtlecoin walletshell, therefore, this version is very similar. We are working on a redesign, but this wallet is fully functional.
+
+Download: https://github.com/catalanscoin/catalanscoinguiwallet/releases
+
 
 ![WalletShell Screens](https://i.imgur.com/41Ujq0S.gif "WalletShell Screens")
 
